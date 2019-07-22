@@ -35,8 +35,9 @@ practice to not just load an entire package such as `from plotnine import *`,
 but to use an abbreviation as we used `pd` for Pandas:
 
 ~~~
+#install plotnine using pip
 %matplotlib inline
-import plotnine as p9
+import plotnine as p9 
 ~~~
 {: .language-python }
 
